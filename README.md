@@ -4,6 +4,10 @@
 
 ### Regression
 
+#### Linear Regression
+
+#### SVR
+
 ### Classification
 
 ## Unsupervised Learning
