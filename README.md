@@ -16,7 +16,7 @@
 ### Regression 📈
 > Regression is type of supervised learning that predicts the continous values
 #### Linear Regression
-
+> Linear regression is a regression algorithms that tries to fit data by plotting a line in the datapointss
 #### SVR
 
 ### Random Forest Regression
