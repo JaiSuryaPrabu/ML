@@ -23,6 +23,12 @@
 
 ### Classification 🐶🐱
 > Classification is type of supervised learning that predicts the discrete values (Yes or no)
+#### Logistic Regression
+
+#### SVC
+
+#### Random Forest Classifier
+
 ## Unsupervised Learning
 ---
 ## Reinforcement Learning
