@@ -30,6 +30,12 @@
 #### Random Forest Classifier
 
 ## Unsupervised Learning
+
+### Clustering
+
+#### K means Clustering
+
+#### Hierarchical clustering
 ---
 ## Reinforcement Learning
 ---
