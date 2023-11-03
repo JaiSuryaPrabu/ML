@@ -14,28 +14,29 @@
     * Regression 📈
     * Classification 🐶🐱
 ### Regression 📈
-> Regression is type of supervised learning that predicts the continous values
-#### Linear Regression
-> Linear regression is a regression algorithms that tries to fit data by plotting a line in the datapointss
-#### SVR
+> Regression is type of supervised learning that predicts the continous values.
 
-### Random Forest Regression
+The most common algorithms:
+
+1. Linear Regression
+2. SVR
+3. Random Forest Regression
 
 ### Classification 🐶🐱
-> Classification is type of supervised learning that predicts the discrete values (Yes or no)
-#### Logistic Regression
+> Classification is type of supervised learning that predicts the discrete values (Yes or no). 
 
-#### SVC
-
-#### Random Forest Classifier
+The most common algorithms: 
+ 
+1. Logistic Regression
+2. SVC
+3. Random Forest Classifier
 
 ## Unsupervised Learning
+> In unsupervised learning, the training data consists of a set of input vectors but no corresponding target values
 
 ### Clustering
+> A way of grouping the data points into different clusters, consisting of similar data points.
 
-#### K means Clustering
-
-#### Hierarchical clustering
----
-## Reinforcement Learning
----
+The most common algorithms are:
+1. K means Clustering
+2. Hierarchical clustering
